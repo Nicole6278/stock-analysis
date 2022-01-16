@@ -24,8 +24,13 @@ Finally, step four required coding to loop through the written arrays to retriev
 
 ![Step_four_code](https://user-images.githubusercontent.com/96153785/149647212-a38ac3b4-d5eb-45c2-9ac3-0075f40d5ada.PNG)
 
+Reviewing the available data from 2017 and 2018 show ENPH and RUN to have been the best selection. The gains of the two stocks in 2017 were not large, but they did not see a decrease into the red as the other stocks did. Steve's parents would have made a good choice if reviewing 2017 data alone. Unfortunately, 2018 saw a 62.6% loss in 2018.
 
-The analysis is well described with screenshots and code (4 pt).
-Summary
+
+![all stocks 17](https://user-images.githubusercontent.com/96153785/149647299-9577b19c-7fce-4f8d-aa53-c3589ce3c968.PNG)
+![all stocks 18](https://user-images.githubusercontent.com/96153785/149647301-3d5b50c0-31c1-4e0e-b513-bb4196756452.PNG)
+
+
+# Summary
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
